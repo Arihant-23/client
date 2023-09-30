@@ -1,0 +1,1479 @@
+[
+    {
+     "ProjectId": 1,
+     "ProjectTitle": "Project 1",
+     "ProjectTechnologies": "Python, HTML, CSS, Machine Learning, Deep Learning",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript",
+     "Technical_SkillsetBackend": "Python",
+     "Other_InformationAvailability": "Available to join immediately"
+    },
+    {
+     "ProjectId": 2,
+     "ProjectTitle": "Project 2",
+     "ProjectTechnologies": "Java Spring Boot, Hibernate, MySQL",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Java, Spring Boot, Hibernate",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "Available to join within a week and open to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 3,
+     "ProjectTitle": "Project 3 ",
+     "ProjectTechnologies": "Java, HTML, CSS, JavaScript",
+     "Technical_SkillsetFrontend": "React, HTML, CSS",
+     "Technical_SkillsetBackend": "Java, Python Django, Flask",
+     "Technical_SkillsetDatabases": "MySQL, MongoDB, Postgres",
+     "Technical_SkillsetInfrastructre": "AWS, Azure OCR, Apache, Docker",
+     "Other_InformationAvailability": "Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 4,
+     "ProjectTitle": "Project 4",
+     "ProjectTechnologies": "Websockets, Redis, Channel layers",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python Django, Django Rest",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate or first\/last week of October"
+    },
+    {
+     "ProjectId": 5,
+     "ProjectTitle": "Project 5",
+     "ProjectTechnologies": "Python, Scrapy framework, MongoDB",
+     "Technical_SkillsetFrontend": "React Native",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Specified",
+     "Other_InformationAvailability": "15-20 days, and is willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 6,
+     "ProjectTitle": "Project 6",
+     "ProjectTechnologies": "Postman, Docker, Jenkins, Java, Spring Boot",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Spring Boot, Java",
+     "Technical_SkillsetInfrastructre": "Postman, Docker, Jenkins",
+     "Other_InformationAvailability": "Available to join in 10-15 days and willing to work from Gurgaon office."
+    },
+    {
+     "ProjectId": 7,
+     "ProjectTitle": "Project 7",
+     "ProjectTechnologies": "React JS, JWT Authentication, Local Storage",
+     "Technical_SkillsetFrontend": "React JS, HTML, CSS, JavaScript",
+     "Technical_SkillsetBackend": "Node JS",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join immediately, comfortable with relocating to Gurgaon"
+    },
+    {
+     "ProjectId": 8,
+     "ProjectTitle": "Project 8",
+     "ProjectTechnologies": "Python, Django, API",
+     "Technical_SkillsetFrontend": "No experience",
+     "Technical_SkillsetBackend": "Python Django, API",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 9,
+     "ProjectTitle": "Project 9",
+     "ProjectTechnologies": "React, Node, Java",
+     "Technical_SkillsetFrontend": "React, Java, Angular, Node, JavaScript",
+     "Technical_SkillsetBackend": "Node",
+     "Technical_SkillsetDatabases": "SQL",
+     "Other_InformationAvailability": "Can join within one week; Comfortable with working from the office in Gurgaon"
+    },
+    {
+     "ProjectId": 10,
+     "ProjectTitle": "Project 10",
+     "ProjectTechnologies": "React JS, Redux, HTML, CSS, Bootstrap, Material UI, Socket.io, Python Django",
+     "Technical_SkillsetFrontend": "React JS, HTML, CSS, Bootstrap, Material UI",
+     "Technical_SkillsetBackend": "Python Django",
+     "Other_InformationAvailability": "Available to join within 30 days, comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 11,
+     "ProjectTitle": "Project 11",
+     "ProjectTechnologies": "React JS, Node JS, TNT database",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, React JS",
+     "Technical_SkillsetBackend": "Node JS",
+     "Technical_SkillsetDatabases": "SQL, TNT",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Ready to join soon and comfortable with Gurgaon office"
+    },
+    {
+     "ProjectId": 12,
+     "ProjectTitle": "Project 12",
+     "ProjectTechnologies": "React JS, Mongo DB, MVC architecture",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Mongo DB",
+     "Technical_SkillsetDatabases": "Mongo DB",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join immediately and comfortable with relocating to Gurgaon"
+    },
+    {
+     "ProjectId": 13,
+     "ProjectTitle": "Project 13",
+     "ProjectTechnologies": "Python, Java, Redis, caching, pagination, liquibase",
+     "Technical_SkillsetFrontend": "React, Next js",
+     "Technical_SkillsetBackend": "Python Django and Spring frameworks",
+     "Technical_SkillsetDatabases": "Not Specified",
+     "Technical_SkillsetInfrastructre": "Not Specified",
+     "Other_InformationAvailability": "Immediate joiner, based in NCR"
+    },
+    {
+     "ProjectId": 14,
+     "ProjectTitle": "Project 14",
+     "ProjectTechnologies": "Python, AWS, JavaScript, Node JS, Docker",
+     "Technical_SkillsetFrontend": "Angular, JavaScript, TypeScript",
+     "Technical_SkillsetBackend": "Python, Java, Node JS, AWS Lambda functions",
+     "Technical_SkillsetDatabases": "SQL",
+     "Technical_SkillsetInfrastructre": "Docker, AWS",
+     "Other_InformationAvailability": "Can join within 30 days of offer and ready to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 15,
+     "ProjectTitle": "Project 15",
+     "ProjectTechnologies": "Java, Spring Framework",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python, Django, Java, Spring Framework",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Earliest available date to join is 25th September 2023 and willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 16,
+     "ProjectTitle": "Project 16",
+     "ProjectTechnologies": "SQL, Cloud, Ecommerce, Haru, Spoke",
+     "Technical_SkillsetFrontend": "React, Angular, Next.js",
+     "Technical_SkillsetBackend": "SQL, MySQL, Oracle, Java, NoSQL",
+     "Technical_SkillsetDatabases": "SQL, MySQL, Oracle, NoSQL",
+     "Technical_SkillsetInfrastructre": "Cloud platforms",
+     "Other_InformationAvailability": "Available to join within a week and ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 17,
+     "ProjectTitle": "Project 17",
+     "ProjectTechnologies": "HTML, CSS, Node.js, SQL, MongoDB",
+     "Technical_SkillsetFrontend": "HTML, CSS, React",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "SQL, MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Can join immediately within 3-4 days"
+    },
+    {
+     "ProjectId": 18,
+     "ProjectTitle": "Project 18",
+     "ProjectTechnologies": "Java, Spring Boot, Angular, HTML, CSS, JavaScript, SQL",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django, Spring",
+     "Technical_SkillsetDatabases": "SQL",
+     "Technical_SkillsetInfrastructre": "HTTPD",
+     "Other_InformationAvailability": "Immediate, comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 19,
+     "ProjectTitle": "Project 19",
+     "ProjectTechnologies": "Machine learning, Linear and Logistic Regression",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Python Django, Java Spring",
+     "Other_InformationAvailability": "Available to start immediately and comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 20,
+     "ProjectTitle": "Project 20",
+     "ProjectTechnologies": "AWS, Node JS, Aurora DB, React, Python, TypeScript, JavaScript, CICD pipelines, ECS containers and topics",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python, Node.js",
+     "Technical_SkillsetDatabases": "Aurora DB",
+     "Technical_SkillsetInfrastructre": "AWS, ECS containers",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 21,
+     "ProjectTitle": "Project 21",
+     "ProjectTechnologies": "Django, Elasticview",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Can join immediately within 5 days and is willing to commute to Gurgaon office"
+    },
+    {
+     "ProjectId": 22,
+     "ProjectTitle": "Project 22",
+     "ProjectTechnologies": "Third Party APIs, Encryption and Decryption Algorithms",
+     "Technical_SkillsetFrontend": "Angular, React, Next.js",
+     "Technical_SkillsetBackend": "Node.js, Express",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate, ready to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 23,
+     "ProjectTitle": "Project 23",
+     "ProjectTechnologies": "Java, React\/TypeScript",
+     "Technical_SkillsetFrontend": "React, Next JS, Google Auth",
+     "Technical_SkillsetBackend": "Java Spring Framework",
+     "Technical_SkillsetDatabases": "Not Specified",
+     "Technical_SkillsetInfrastructre": "Not Specified",
+     "Other_InformationAvailability": "Immediately"
+    },
+    {
+     "ProjectId": 24,
+     "ProjectTitle": "Project 24",
+     "ProjectTechnologies": "Java, Python, SQL, MongoDB, Mongoose, Passport, React and Express",
+     "Technical_SkillsetFrontend": "React JS (Beginner level, Self-rated 7\/10)",
+     "Technical_SkillsetBackend": "Java, Python, SQL (Self-rated 7\/10)",
+     "Technical_SkillsetDatabases": "MongoDB, SQL",
+     "Technical_SkillsetInfrastructre": "No information provided",
+     "Other_InformationAvailability": "Available to join for a full time position after January 2024, willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 25,
+     "ProjectTitle": "Project 25",
+     "ProjectTechnologies": "API, Event-based system",
+     "Technical_SkillsetFrontend": "Reactjs",
+     "Technical_SkillsetBackend": "Node JS, TypeScript, JavaScript",
+     "Technical_SkillsetDatabases": "Postgre SQL",
+     "Technical_SkillsetInfrastructre": "Flutter",
+     "Other_InformationAvailability": "Available to join in two months, open to discussing notice period compensation"
+    },
+    {
+     "ProjectId": 26,
+     "ProjectTitle": "Project 26",
+     "ProjectTechnologies": "React, React Native",
+     "Technical_SkillsetFrontend": "React, React Native",
+     "Technical_SkillsetBackend": "Not experienced, but a quick learner",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediate, ready to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 27,
+     "ProjectTitle": "Project 27",
+     "ProjectTechnologies": "Fitbit API, Isolation Forest Algorithm, Email Service",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Express, JavaScript",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join within two weeks and willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 28,
+     "ProjectTitle": "Project 28",
+     "ProjectTechnologies": "Node JS, Puppeteer",
+     "Technical_SkillsetFrontend": "JavaScript, React, Angular",
+     "Technical_SkillsetBackend": "Node JS, Express, Python, Django",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 29,
+     "ProjectTitle": "Project 29",
+     "ProjectTechnologies": "Java, PostgreSQL",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "PostgreSQL",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediately and is ready to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 30,
+     "ProjectTitle": "Project 30",
+     "ProjectTechnologies": "React JS, Node JS, Express JS, MongoDB",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, jQuery",
+     "Technical_SkillsetBackend": "PHP Codeigniter, Django",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "One to two weeks, open for immediate joining if required"
+    },
+    {
+     "ProjectId": 31,
+     "ProjectTitle": "Project 31",
+     "ProjectTechnologies": "Python Django, Flask, Spring Boot",
+     "Technical_SkillsetFrontend": "ReactJS",
+     "Technical_SkillsetBackend": "Python Django, Flask, Spring Boot",
+     "Other_InformationAvailability": "Available to join in 30 days"
+    },
+    {
+     "ProjectId": 32,
+     "ProjectTitle": "Project 32",
+     "ProjectTechnologies": "Node JS, JavaScript",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Node.js, Python Django",
+     "Technical_SkillsetDatabases": "Postman",
+     "Other_InformationAvailability": "Immediate, comfortable with the office location in Gurgaon"
+    },
+    {
+     "ProjectId": 33,
+     "ProjectTitle": "Project 33",
+     "ProjectTechnologies": "Machine Learning, Random Forest, Extra Trees Regressor, Light Gradient Boosting",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Node JS, Express JS",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Within a week"
+    },
+    {
+     "ProjectId": 34,
+     "ProjectTitle": "Project 34",
+     "ProjectTechnologies": "CA framework, Python APIs, React",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python, Node.js",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Rohan has a notice period of three months and is comfortable with relocating to Gurgaon."
+    },
+    {
+     "ProjectId": 35,
+     "ProjectTitle": "Project 35",
+     "ProjectTechnologies": "Node JS, TypeScript, MongoDB",
+     "Technical_SkillsetFrontend": "Not Specified",
+     "Technical_SkillsetBackend": "Node JS",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Specified",
+     "Other_InformationAvailability": "Can join within 1.5-2 months"
+    },
+    {
+     "ProjectId": 36,
+     "ProjectTitle": "Project 36",
+     "ProjectTechnologies": "Java, Retrofit, MVC pattern",
+     "Technical_SkillsetFrontend": "React Native",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Can join from July 2024 or January 2024"
+    },
+    {
+     "ProjectId": 37,
+     "ProjectTitle": "Project 37",
+     "ProjectTechnologies": "Multicast graded CNN model, Hybrid recommender system",
+     "Technical_SkillsetFrontend": "Not mentioned",
+     "Technical_SkillsetBackend": "Back-end frameworks and APIs",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "27th\/28th November"
+    },
+    {
+     "ProjectId": 38,
+     "ProjectTitle": "Project 38",
+     "ProjectTechnologies": "Java, JavaScript, Android app development, Firebase, Node.js, MongoDB, Postman",
+     "Technical_SkillsetFrontend": "React, HTML, CSS",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "MongoDB, Firebase",
+     "Technical_SkillsetInfrastructre": "Firebase",
+     "Other_InformationAvailability": "Available to join in one week"
+    },
+    {
+     "ProjectId": 39,
+     "ProjectTitle": "Project 39",
+     "ProjectTechnologies": "React JS, Node JS, HTML, CSS, JavaScript, EJS",
+     "Technical_SkillsetFrontend": "React JS, HTML, CSS, JavaScript, EJS",
+     "Technical_SkillsetBackend": "Node JS",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 40,
+     "ProjectTitle": "Project 40",
+     "ProjectTechnologies": "Javascript, SQL, Report Labs, React, Python Django, Java, Spring Boot, MySQL",
+     "Technical_SkillsetFrontend": "React, HTML, CSS, JavaScript",
+     "Technical_SkillsetBackend": "Python Django, Java, Spring Boot",
+     "Technical_SkillsetDatabases": "MySQL, Sequel Lite",
+     "Other_InformationAvailability": "Can join immediately and is comfortable working from office"
+    },
+    {
+     "ProjectId": 41,
+     "ProjectTitle": "Project 41",
+     "ProjectTechnologies": "DuckDuckGo API, React Native, TypeScript",
+     "Technical_SkillsetFrontend": "React Native",
+     "Technical_SkillsetBackend": "Prayat",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join immediately and willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 42,
+     "ProjectTitle": "Project 42",
+     "ProjectTechnologies": "HTML, CSS, JavaScript, Tableau, Power BI, SQL, C++",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, React JS",
+     "Technical_SkillsetBackend": "None mentioned",
+     "Technical_SkillsetDatabases": "SQL",
+     "Technical_SkillsetInfrastructre": "None mentioned",
+     "Other_InformationAvailability": "Can join within a week's notice and is comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 43,
+     "ProjectTitle": "Project 43",
+     "ProjectTechnologies": "Decentralized anomaly detection system, machine learning, attention mechanism",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Java, Spring Boot, JavaScript API",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to start as soon as they get home and comfortable with the requirement of working from the office in Gurgaon"
+    },
+    {
+     "ProjectId": 44,
+     "ProjectTitle": "Project 44",
+     "ProjectTechnologies": "Azure APIs and SAS fulfillment APIs",
+     "Technical_SkillsetBackend": "Azure APIs and SAS fulfillment APIs",
+     "Technical_SkillsetDatabases": "SQL and NoSQL",
+     "Other_InformationAvailability": "Can join in 15 days to one month and is comfortable with the arrangement of working from Gurgaon"
+    },
+    {
+     "ProjectId": 45,
+     "ProjectTitle": "Project 45",
+     "ProjectTechnologies": "Java, AWS DynamoDB",
+     "Technical_SkillsetFrontend": "Learning React.js",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "AWS DynamoDB",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 46,
+     "ProjectTitle": "Project 46",
+     "ProjectTechnologies": "HTML, CSS, JavaScript, React JS, Python Django, Express",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, React JS",
+     "Technical_SkillsetBackend": "Python Django, Express",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join immediately, comfortable in moving to Gurgaon"
+    },
+    {
+     "ProjectId": 47,
+     "ProjectTitle": "Project 47",
+     "ProjectTechnologies": "PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Node JS, Express JS, MongoDB",
+     "Technical_SkillsetFrontend": "Bootstrap, JavaScript, jQuery",
+     "Technical_SkillsetBackend": "PHP, Node.js, Express.js",
+     "Technical_SkillsetDatabases": "MySQL, MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join from October 222023, comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 48,
+     "ProjectTitle": "Project 48",
+     "ProjectTechnologies": "Python, Django, HTML, CSS, JavaScript",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django, ASP.NET",
+     "Other_InformationAvailability": "Immediately"
+    },
+    {
+     "ProjectId": 49,
+     "ProjectTitle": "Project 49",
+     "ProjectTechnologies": "KN algorithm, Flutter, Dart, Firebase",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js",
+     "Other_InformationAvailability": "Immediate, ready to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 50,
+     "ProjectTitle": "Project 50",
+     "ProjectTechnologies": "React, Node.js, API development",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join from October and ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 51,
+     "ProjectTitle": "Project 51",
+     "ProjectTechnologies": "Machine Learning, Smart Analysis",
+     "Technical_SkillsetFrontend": "Not Specified",
+     "Technical_SkillsetBackend": "Django",
+     "Technical_SkillsetDatabases": "Not Specified",
+     "Technical_SkillsetInfrastructre": "Not Specified",
+     "Other_InformationAvailability": "Within 10 days of clearance of all rounds"
+    },
+    {
+     "ProjectId": 52,
+     "ProjectTitle": "Project 52",
+     "ProjectTechnologies": "React, Django",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Can join immediately and relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 53,
+     "ProjectTitle": "Project 53",
+     "ProjectTechnologies": "Angular, React, Next js, Python Django, Express JS",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django, Express JS",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join as an intern immediately and full time from July 2024"
+    },
+    {
+     "ProjectId": 54,
+     "ProjectTitle": "Project 54",
+     "ProjectTechnologies": "MongoDB, Express JS, Node JS, Java",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django, Node.js",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Can join immediately and is comfortable with working from the office in Gurgaon"
+    },
+    {
+     "ProjectId": 55,
+     "ProjectTitle": "Project 55",
+     "ProjectTechnologies": "Solidity",
+     "Technical_SkillsetFrontend": "React.js",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not provided",
+     "Other_InformationAvailability": "Available to join in 10 days and willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 56,
+     "ProjectTitle": "Project 56",
+     "ProjectTechnologies": "NLTK library, Text BLOB and SVC",
+     "Technical_SkillsetFrontend": "Not Mentioned",
+     "Technical_SkillsetBackend": "Python",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate and ready to work from Gurgaon"
+    },
+    {
+     "ProjectId": 57,
+     "ProjectTitle": "Project 57",
+     "ProjectTechnologies": "React Jsonschema, Material React Table, Promises, Batch Functions",
+     "Technical_SkillsetFrontend": "React, CJS, Redux, HTML, CSS",
+     "Technical_SkillsetBackend": "Python",
+     "Technical_SkillsetDatabases": "Unknown",
+     "Technical_SkillsetInfrastructre": "Messenger, Python, and machine learning",
+     "Other_InformationAvailability": "Available to join immediately"
+    },
+    {
+     "ProjectId": 58,
+     "ProjectTitle": "Project 58",
+     "ProjectTechnologies": "TypeScript, Node.js",
+     "Technical_SkillsetFrontend": "Angular",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join after 12 days of receiving the offer letter"
+    },
+    {
+     "ProjectId": 59,
+     "ProjectTitle": "Project 59",
+     "ProjectTechnologies": "React, Angular, Next.js, Python, Django, Flask, MongoDB, MySQL",
+     "Technical_SkillsetFrontend": "React, Angular, Next.js",
+     "Technical_SkillsetBackend": "Python, Django, Flask",
+     "Technical_SkillsetDatabases": "MongoDB, MySQL",
+     "Technical_SkillsetInfrastructre": "Not Provided",
+     "Other_InformationAvailability": "Aman is comfortable with the work environment and location of the company. He is available to join if offered a position and is excited to be part of the team."
+    },
+    {
+     "ProjectId": 60,
+     "ProjectTitle": "Project 60",
+     "ProjectTechnologies": "React, Python, SQL, Java, C",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python Flask",
+     "Technical_SkillsetDatabases": "SQL",
+     "Other_InformationAvailability": "Immediately with zero days notice period"
+    },
+    {
+     "ProjectId": 61,
+     "ProjectTitle": "Project 61",
+     "ProjectTechnologies": "HTML, Form groups, S3 bucket",
+     "Technical_SkillsetFrontend": "Angular, React, Next.js",
+     "Technical_SkillsetBackend": "Spring Boot, Django",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Engine X",
+     "Other_InformationAvailability": "Available to join in a month and 15 days"
+    },
+    {
+     "ProjectId": 62,
+     "ProjectTitle": "Project 62",
+     "ProjectTechnologies": "Python, Django, Django Rest Framework",
+     "Technical_SkillsetFrontend": "No information provided",
+     "Technical_SkillsetBackend": "Python, Django, Django Rest Framework",
+     "Technical_SkillsetDatabases": "No information provided",
+     "Technical_SkillsetInfrastructre": "No information provided",
+     "Other_InformationAvailability": "Comfortable with working from Gurgaon office and is available to join within a month"
+    },
+    {
+     "ProjectId": 63,
+     "ProjectTitle": "Project 63",
+     "ProjectTechnologies": "Lambda, AWS, API gateway, React",
+     "Technical_SkillsetFrontend": "React, Redux",
+     "Technical_SkillsetBackend": "Node.js, Python Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Can start in 30-60 days, comfortable relocating to Gurgaon"
+    },
+    {
+     "ProjectId": 64,
+     "ProjectTitle": "Project 64",
+     "ProjectTechnologies": "Django, React, Alpha Vantage API",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "After January"
+    },
+    {
+     "ProjectId": 65,
+     "ProjectTitle": "Project 65",
+     "ProjectTechnologies": "JavaScript, HTML, CSS, Google Fonts, React Icon, Responsiveness",
+     "Technical_SkillsetFrontend": "React, TypeScript",
+     "Technical_SkillsetBackend": "Node, Express",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate, comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 66,
+     "ProjectTitle": "Project 66",
+     "ProjectTechnologies": "Digital Marketing",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Node",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Can join within a week and ready to move to Gurgaon"
+    },
+    {
+     "ProjectId": 67,
+     "ProjectTitle": "Project 67",
+     "ProjectTechnologies": "React, Next JS, Node JS, Express, SQLite, MongoDB, Prisma",
+     "Technical_SkillsetFrontend": "React, Next JS",
+     "Technical_SkillsetBackend": "Node JS, Express",
+     "Technical_SkillsetDatabases": "SQLite, MongoDB, Prisma",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join in 15 days and comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 68,
+     "ProjectTitle": "Project 68",
+     "ProjectTechnologies": "Micro service architecture, Spring MVC, Spring Cloud",
+     "Technical_SkillsetFrontend": "Interest in learning",
+     "Technical_SkillsetBackend": "Java, Spring and Spring boot framework, REST APIs, micro services architecture",
+     "Technical_SkillsetDatabases": "Hadoop ecosystem",
+     "Technical_SkillsetInfrastructre": "Micro services architecture",
+     "Other_InformationAvailability": "Willing to join as soon as the interview process completes. Comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 69,
+     "ProjectTitle": "Project 69",
+     "ProjectTechnologies": "TypeScript, FCM token, Socket IO, Google Descriptive APIs, Natural Language Processing",
+     "Technical_SkillsetFrontend": "Not specified",
+     "Technical_SkillsetBackend": "Python",
+     "Technical_SkillsetDatabases": "Not specified",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "Not specified"
+    },
+    {
+     "ProjectId": 70,
+     "ProjectTitle": "Project 70",
+     "ProjectTechnologies": "Python, AI, ML",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Django, Python",
+     "Technical_SkillsetDatabases": "Not specified",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "Immediate joiner"
+    },
+    {
+     "ProjectId": 71,
+     "ProjectTitle": "Project 71",
+     "ProjectTechnologies": "Node JS, Express JS, MySQL, AWS, GitLab, Sonar, Swagger APIs",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js, Express.js",
+     "Technical_SkillsetDatabases": "MongoDB, MySQL",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 72,
+     "ProjectTitle": "Project 72",
+     "ProjectTechnologies": "React JS, Akka microservices, Postgres, MongoDB, Sequel",
+     "Technical_SkillsetFrontend": "Angular JS, React",
+     "Technical_SkillsetBackend": "Scala, Akka, Play framework",
+     "Technical_SkillsetDatabases": "Postgres, MongoDB",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "available to join from 29th September 2023"
+    },
+    {
+     "ProjectId": 73,
+     "ProjectTitle": "Project 73",
+     "ProjectTechnologies": "Amazon SQS, Kafka",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Unspecified",
+     "Technical_SkillsetInfrastructre": "Docker",
+     "Other_InformationAvailability": "28th October"
+    },
+    {
+     "ProjectId": 74,
+     "ProjectTitle": "Project 74",
+     "ProjectTechnologies": "Postman, JUnit, threads, Jenkins, Docker",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django, Spring Boot",
+     "Technical_SkillsetInfrastructre": "Docker, Jenkins",
+     "Other_InformationAvailability": "Available to join within 10-15 days and willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 75,
+     "ProjectTitle": "Project 75",
+     "ProjectTechnologies": "Cron job",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Not specified",
+     "Technical_SkillsetDatabases": "Not specified",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "Can join immediately, comfortable with working from Gurgaon"
+    },
+    {
+     "ProjectId": 76,
+     "ProjectTitle": "Project 76",
+     "ProjectTechnologies": "JavaScript",
+     "Technical_SkillsetFrontend": "JavaScript, React",
+     "Technical_SkillsetBackend": "JavaScript",
+     "Technical_SkillsetDatabases": "Not Discussed",
+     "Technical_SkillsetInfrastructre": "Not Discussed",
+     "Other_InformationAvailability": "Immediately, with a maximum of two weeks notice period at current job"
+    },
+    {
+     "ProjectId": 77,
+     "ProjectTitle": "Project 77",
+     "ProjectTechnologies": "Django, Front-end and Back-end development",
+     "Technical_SkillsetFrontend": "Basic knowledge",
+     "Technical_SkillsetBackend": "Basic knowledge",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join within a week and comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 78,
+     "ProjectTitle": "Project 78",
+     "ProjectTechnologies": "ASP.NET, CSS, HTML, SQL Server",
+     "Technical_SkillsetFrontend": "CSS, HTML, JavaScript, Ajax, Bootstrap",
+     "Technical_SkillsetBackend": "ASP.NET MVC",
+     "Technical_SkillsetDatabases": "SQL Server",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join within 10 days and comfortable with working from Gurgaon office."
+    },
+    {
+     "ProjectId": 79,
+     "ProjectTitle": "Project 79",
+     "ProjectTechnologies": "Java, WS, AWS, Lambda Functions, Cloud Watch, MongoDB, Express, React, Node JS",
+     "Technical_SkillsetFrontend": "ReactJS",
+     "Technical_SkillsetBackend": "NodeJS, ExpressJS",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate, ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 80,
+     "ProjectTitle": "Project 80",
+     "ProjectTechnologies": "EF Core API, Angular, Azure",
+     "Technical_SkillsetFrontend": "Angular JS",
+     "Technical_SkillsetBackend": ".Net, SQL",
+     "Technical_SkillsetDatabases": "SQL",
+     "Technical_SkillsetInfrastructre": "Azure",
+     "Other_InformationAvailability": "Available to join within 15 days and comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 81,
+     "ProjectTitle": "Project 81",
+     "ProjectTechnologies": "Machine learning, Linear regression",
+     "Technical_SkillsetFrontend": "Undetermined",
+     "Technical_SkillsetBackend": "Python, FAST API",
+     "Technical_SkillsetDatabases": "Undetermined",
+     "Technical_SkillsetInfrastructre": "PyCharm",
+     "Other_InformationAvailability": "Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 82,
+     "ProjectTitle": "Project 82",
+     "ProjectTechnologies": "JavaScript, External Libraries",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediately, ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 83,
+     "ProjectTitle": "Project 83",
+     "ProjectTechnologies": "Machine Learning, Cosine Similarity",
+     "Technical_SkillsetFrontend": "React, HTML, CSS, JavaScript",
+     "Other_InformationAvailability": "Available to join immediately"
+    },
+    {
+     "ProjectId": 84,
+     "ProjectTitle": "Project 84",
+     "ProjectTechnologies": "React, Node, Express, MongoDB, PostgreSQL, Django, Python",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node, Express, Django, Python",
+     "Technical_SkillsetDatabases": "MongoDB, PostgreSQL",
+     "Other_InformationAvailability": "Can join within 1-2 weeks after receiving the offer letter"
+    },
+    {
+     "ProjectId": 85,
+     "ProjectTitle": "Project 85",
+     "ProjectTechnologies": "MongoDB, Angular, JavaScript, CSS, HTML, Python",
+     "Technical_SkillsetFrontend": "Angular, React, Next.js",
+     "Technical_SkillsetBackend": "Python Django, Fast APIs, Notes",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join as soon as possible with a notice period of 30 days"
+    },
+    {
+     "ProjectId": 86,
+     "ProjectTitle": "Project 86",
+     "ProjectTechnologies": "C++, Java, AWS, Spring Framework, J Unit, Machine Learning, Linux, AOP",
+     "Technical_SkillsetFrontend": "JavaScript, React JS, HTML, CSS",
+     "Technical_SkillsetBackend": "Node JS, Java, AWS, Spring Framework",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Available to join immediately"
+    },
+    {
+     "ProjectId": 87,
+     "ProjectTitle": "Project 87",
+     "ProjectTechnologies": "Open AI, Machine Learning Models, Python Libraries for Audio Conversion and Prompt Engineering",
+     "Technical_SkillsetFrontend": "4-5\/10",
+     "Technical_SkillsetBackend": "Python Django, 7-8\/10",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join within a month and comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 88,
+     "ProjectTitle": "Project 88",
+     "ProjectTechnologies": "Java, AWS Lambda",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js, Express.js",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediately"
+    },
+    {
+     "ProjectId": 89,
+     "ProjectTitle": "Project 89",
+     "ProjectTechnologies": "MongoDB, Node JS, JavaScript, JWT, React Native",
+     "Technical_SkillsetFrontend": "Reactjs, React Native",
+     "Technical_SkillsetBackend": "Node.js, Express",
+     "Technical_SkillsetDatabases": "MongoDB, PostgreSQL",
+     "Technical_SkillsetInfrastructre": "Knowledge not specified",
+     "Other_InformationAvailability": "Can join immediately and is comfortable working from the Gurgaon office"
+    },
+    {
+     "ProjectId": 90,
+     "ProjectTitle": "Project 90",
+     "ProjectTechnologies": "Pega, Python Node JS, Theme Cosmos",
+     "Technical_SkillsetFrontend": "Python Node JS",
+     "Technical_SkillsetBackend": "No prior experience with backend frameworks",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join immediately after the first meeting"
+    },
+    {
+     "ProjectId": 91,
+     "ProjectTitle": "Project 91",
+     "ProjectTechnologies": "React, Next.js, Python Django, Node.js, Express.js",
+     "Technical_SkillsetFrontend": "React, Next.js",
+     "Technical_SkillsetBackend": "Python Django, Node.js, Express.js",
+     "Technical_SkillsetDatabases": "Unknown",
+     "Technical_SkillsetInfrastructre": "Unknown",
+     "Other_InformationAvailability": "Immediately, ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 92,
+     "ProjectTitle": "Project 92",
+     "ProjectTechnologies": "Machine Learning, Front-end and Backend Frameworks, AWS",
+     "Technical_SkillsetFrontend": "Unknown",
+     "Technical_SkillsetBackend": "Unknown",
+     "Technical_SkillsetDatabases": "Unknown",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 93,
+     "ProjectTitle": "Project 93",
+     "ProjectTechnologies": "JavaScript, HTML, CSS, Bootstrap, Express JS, Node JS",
+     "Technical_SkillsetFrontend": "React, Redux, HTML, JavaScript, CSS, Bootstrap",
+     "Technical_SkillsetBackend": "Express JS, Node JS",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Not provided",
+     "Other_InformationAvailability": "Available to join as soon as possible. Comfortable with the requirement of working from Gurgaon office"
+    },
+    {
+     "ProjectId": 94,
+     "ProjectTitle": "Project 94",
+     "ProjectTechnologies": "CSS, HTML, CSS, JavaScript, Python, MySQL",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "No Experience",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "No Experience",
+     "Other_InformationAvailability": "Available to join"
+    },
+    {
+     "ProjectId": 95,
+     "ProjectTitle": "Project 95",
+     "ProjectTechnologies": "React JS, Redux, React Hooks",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, React JS",
+     "Technical_SkillsetBackend": "Node JS, C&C",
+     "Technical_SkillsetDatabases": "Not provided",
+     "Technical_SkillsetInfrastructre": "Not provided",
+     "Other_InformationAvailability": "Available to join tomorrow"
+    },
+    {
+     "ProjectId": 96,
+     "ProjectTitle": "Project 96",
+     "ProjectTechnologies": "React JS, Node.js",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Node.js (Learning)",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join within a week of being offered a position and willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 97,
+     "ProjectTitle": "Project 97",
+     "ProjectTechnologies": "Mongoose, React JS, Node JS",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Node JS",
+     "Technical_SkillsetDatabases": "Mongoose",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join by 25th September, comfortable working from an office in Gurgaon"
+    },
+    {
+     "ProjectId": 98,
+     "ProjectTitle": "Project 98",
+     "ProjectTechnologies": "Open pose, MRCP CNN, Pandas, scikit learn, Python",
+     "Technical_SkillsetFrontend": "HTML, JavaScript, jQuery, CSS",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetDatabases": "MySQL, MSSQL",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join immediately and willing to commute to Gurgaon"
+    },
+    {
+     "ProjectId": 99,
+     "ProjectTitle": "Project 99",
+     "ProjectTechnologies": "React.js, Redux, Schema UI, Config one UI, Live Swiggy API, Conflict one UI",
+     "Technical_SkillsetFrontend": "React.js",
+     "Technical_SkillsetBackend": "Willing to learn",
+     "Technical_SkillsetDatabases": "Good understanding of data structures and algorithms",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate, willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 100,
+     "ProjectTitle": "Project 100",
+     "ProjectTechnologies": "Front-end and Back-end frameworks",
+     "Technical_SkillsetFrontend": "7.5\/10",
+     "Technical_SkillsetBackend": "08-Oct",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Azure DevOps",
+     "Other_InformationAvailability": "45 days notice period"
+    },
+    {
+     "ProjectId": 101,
+     "ProjectTitle": "Project 101",
+     "ProjectTechnologies": "Angular",
+     "Technical_SkillsetFrontend": "Angular, React",
+     "Technical_SkillsetBackend": "Java Springboard",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join in 10 days and comfortable working from office in Gurgaon"
+    },
+    {
+     "ProjectId": 102,
+     "ProjectTitle": "Project 102",
+     "ProjectTechnologies": "Web sockets, TCP IP handshake",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Express JS",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediate joiner, ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 103,
+     "ProjectTitle": "Project 103",
+     "ProjectTechnologies": "Octa IDP",
+     "Technical_SkillsetFrontend": "Angular",
+     "Technical_SkillsetBackend": "Spring Boot",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "30 days after receiving the offer letter"
+    },
+    {
+     "ProjectId": 104,
+     "ProjectTitle": "Project 104",
+     "ProjectTechnologies": "Node JS, Kafka, Java, Springboard, Postman",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediately available and willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 105,
+     "ProjectTitle": "Project 105",
+     "ProjectTechnologies": "Node.js, MongoDB, Google APIs",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node JS, Express JS",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Available to join immediately and comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 106,
+     "ProjectTitle": "Project 106",
+     "ProjectTechnologies": "Elasticsearch, Dagger",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Amazon's Taman Toolkit",
+     "Other_InformationAvailability": "Immediate, willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 107,
+     "ProjectTitle": "Project 107",
+     "ProjectTechnologies": "Angular, React, Node JSC",
+     "Technical_SkillsetFrontend": "Angular, React",
+     "Technical_SkillsetBackend": "Node JSC, Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "End of August, comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 108,
+     "ProjectTitle": "Project 108",
+     "ProjectTechnologies": "Angular, Node, Nest, TypeScript, Azure, Open AI, REST APIs, RBAC",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": ".Net, Node.js",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Azure, OpenAI",
+     "Other_InformationAvailability": "Available to join in 12 days after receiving offer letter"
+    },
+    {
+     "ProjectId": 109,
+     "ProjectTitle": "Project 109",
+     "ProjectTechnologies": "React, Material UI",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Java\/Spring MVC",
+     "Other_InformationAvailability": "Immediately available and comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 110,
+     "ProjectTitle": "Project 110",
+     "ProjectTechnologies": "React JS, JavaScript, Material UI, Context API, React Redux, Java, Spring Boot, Oracle, REST APIs",
+     "Technical_SkillsetFrontend": "React JS, JavaScript, Material UI, Context API, React Redux",
+     "Technical_SkillsetBackend": "Java, Spring Boot, Oracle, REST APIs",
+     "Technical_SkillsetDatabases": "Oracle",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join in 3 months with a notice period of 3 months"
+    },
+    {
+     "ProjectId": 111,
+     "ProjectTitle": "Project 111",
+     "ProjectTechnologies": "Python, REST APIs, Java Spring Boot, AWS Lambda",
+     "Technical_SkillsetFrontend": "Angular, React, Next.js",
+     "Technical_SkillsetBackend": "Python, REST APIs, Java Spring Boot",
+     "Technical_SkillsetDatabases": "MongoDB, MySQL, PostgreSQL",
+     "Technical_SkillsetInfrastructre": "AWS Lambda",
+     "Other_InformationAvailability": "Available to join immediately. Willing to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 112,
+     "ProjectTitle": "Project 112",
+     "ProjectTechnologies": "Deep Learning, Reinforcement Learning",
+     "Technical_SkillsetFrontend": "Reactjs",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Between October to December"
+    },
+    {
+     "ProjectId": 113,
+     "ProjectTitle": "Project 113",
+     "ProjectTechnologies": "Python, DBMS, MongoDB, Express, Node JS, Reactjs",
+     "Technical_SkillsetFrontend": "Reactjs",
+     "Technical_SkillsetBackend": "Python, Node JS, Express",
+     "Technical_SkillsetDatabases": "DBMS, MongoDB",
+     "Technical_SkillsetInfrastructre": "Experience in project deployment",
+     "Other_InformationAvailability": "Available to join if offered a position and comfortable to work from office in Gurgaon"
+    },
+    {
+     "ProjectId": 114,
+     "ProjectTitle": "Project 114",
+     "ProjectTechnologies": "BIRD base algorithm, Neutral Sofic Set, Voting Mechanism, Scraping Library",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Python, Flask, Node JS, AWS",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediately"
+    },
+    {
+     "ProjectId": 115,
+     "ProjectTitle": "Project 115",
+     "ProjectTechnologies": "Python, Beautiful Soup",
+     "Technical_SkillsetFrontend": "Java Springboard",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join as soon as offered a position"
+    },
+    {
+     "ProjectId": 116,
+     "ProjectTitle": "Project 116",
+     "ProjectTechnologies": "Django, Alpha Vantage API",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Flask",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "As soon as possible"
+    },
+    {
+     "ProjectId": 117,
+     "ProjectTitle": "Project 117",
+     "ProjectTechnologies": "React, Bootstrap, HTML, Node.js, Rabbit MQ",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Node.js, Express",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Can join in 18-15 days and comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 118,
+     "ProjectTitle": "Project 118",
+     "ProjectTechnologies": "React, Angular, Next js, Python, Django",
+     "Technical_SkillsetFrontend": "React, Angular, Next js",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetDatabases": "PostgreSQL",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate, ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 119,
+     "ProjectTitle": "Project 119",
+     "ProjectTechnologies": "Java, AWS Lambda and other AWS services",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node JS, Express",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Within a week"
+    },
+    {
+     "ProjectId": 120,
+     "ProjectTitle": "Project 120",
+     "ProjectTechnologies": "Jenkins, Serverless Architecture",
+     "Technical_SkillsetFrontend": "Angular, React, Next js",
+     "Technical_SkillsetBackend": "Python Django",
+     "Other_InformationAvailability": "Can join in 30 days and willing to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 121,
+     "ProjectTitle": "Project 121",
+     "ProjectTechnologies": "Java, MySQL, Kafka, HTML, CSS",
+     "Technical_SkillsetFrontend": "HTML, CSS",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Kafka",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 122,
+     "ProjectTitle": "Project 122",
+     "ProjectTechnologies": "React, JS, HTML, CSS, JavaScript, Java, Spring Boot, MySQL",
+     "Technical_SkillsetFrontend": "React, JS, HTML, CSS, JavaScript",
+     "Technical_SkillsetBackend": "Java, Spring Boot",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join within 30-45 days, willing to work from the Gurgaon office"
+    },
+    {
+     "ProjectId": 123,
+     "ProjectTitle": "Project 123",
+     "ProjectTechnologies": "Python, Django, PostgreSQL",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "SQL & NoSQL",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "After 14th November"
+    },
+    {
+     "ProjectId": 124,
+     "ProjectTitle": "Project 124",
+     "ProjectTechnologies": "Angular, React, Node JS, Flask, Spring Boot, Robot Framework",
+     "Technical_SkillsetFrontend": "Angular, React",
+     "Technical_SkillsetBackend": "Node JS, Flask, Spring Boot",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join immediately, comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 125,
+     "ProjectTitle": "Project 125",
+     "ProjectTechnologies": "Python, Cosine Similarity Algorithm",
+     "Technical_SkillsetFrontend": "Angular",
+     "Technical_SkillsetBackend": "Spring MVC",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join within 15 days, and comfortable with the arrangement of working from Gurgaon office"
+    },
+    {
+     "ProjectId": 126,
+     "ProjectTitle": "Project 126",
+     "ProjectTechnologies": "HTML5, CSS3, JavaScript, React JS, Node JS, Express JS, SQL, MongoDB",
+     "Technical_SkillsetFrontend": "HTML5, CSS3, JavaScript, React JS",
+     "Technical_SkillsetBackend": "Node JS, Express JS",
+     "Technical_SkillsetDatabases": "SQL, MongoDB",
+     "Technical_SkillsetInfrastructre": "Has experience with transitioning from MySQL to MongoDB and integrating Node JS",
+     "Other_InformationAvailability": "Immediate joiner, comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 127,
+     "ProjectTitle": "Project 127",
+     "ProjectTechnologies": "Docker, Microservices",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Not Mentioned",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Docker",
+     "Other_InformationAvailability": "Available to join after 30 days notice period"
+    },
+    {
+     "ProjectId": 128,
+     "ProjectTitle": "Project 128",
+     "ProjectTechnologies": "Python, JavaScript, CC, ReactJS",
+     "Technical_SkillsetFrontend": "ReactJS",
+     "Technical_SkillsetBackend": "Python, Node.js",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 129,
+     "ProjectTitle": "Project 129",
+     "ProjectTechnologies": "React, Node.js, Postman",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Technical_SkillsetInfrastructre": "Unknown",
+     "Other_InformationAvailability": "Available to join from 1 October and comfortable with working from Gurgaon office."
+    },
+    {
+     "ProjectId": 130,
+     "ProjectTitle": "Project 130",
+     "ProjectTechnologies": "CNN, various libraries",
+     "Technical_SkillsetFrontend": "Theoretical knowledge",
+     "Technical_SkillsetBackend": "Theoretical knowledge",
+     "Technical_SkillsetDatabases": "Not specified",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+     "ProjectId": 131,
+     "ProjectTitle": "Project 131",
+     "ProjectTechnologies": "Python",
+     "Technical_SkillsetFrontend": "Not Mentioned",
+     "Technical_SkillsetBackend": "Not Mentioned",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediately"
+    },
+    {
+     "ProjectId": 132,
+     "ProjectTitle": "Project 132",
+     "ProjectTechnologies": "Mask R-CNN, Python",
+     "Technical_SkillsetFrontend": "HTML, CSS, Angular, React",
+     "Technical_SkillsetBackend": "Node JavaScript, Python Django",
+     "Technical_SkillsetDatabases": "DBMS",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join the role the next day after receiving the offer"
+    },
+    {
+     "ProjectId": 133,
+     "ProjectTitle": "Project 133",
+     "ProjectTechnologies": "Open AI, TypeScript",
+     "Technical_SkillsetFrontend": "Angular, Ionic",
+     "Technical_SkillsetBackend": "Node JS, Python Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Within 12 days"
+    },
+    {
+     "ProjectId": 134,
+     "ProjectTitle": "Project 134",
+     "ProjectTechnologies": "React, JS, JavaScript, Python, C",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Node.js, Express.js, Python Django",
+     "Technical_SkillsetDatabases": "MongoDB",
+     "Other_InformationAvailability": "Available to join immediately, ready to relocate to Gurgaon"
+    },
+    {
+     "ProjectId": 135,
+     "ProjectTitle": "Project 135",
+     "ProjectTechnologies": "React, Next.js, Node.js, Facebook and Google authentication, dynamic GraphQL queries",
+     "Technical_SkillsetFrontend": "React, Next.js",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join from 1st November"
+    },
+    {
+     "ProjectId": 136,
+     "ProjectTitle": "Project 136",
+     "ProjectTechnologies": "Steamboat, Java",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Docker, Jenkins",
+     "Other_InformationAvailability": "10-15 days"
+    },
+    {
+     "ProjectId": 137,
+     "ProjectTitle": "Project 137",
+     "ProjectTechnologies": "Java",
+     "Technical_SkillsetFrontend": "Not mentioned",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Can join after 30 days of notice period and is comfortable with working from Gurgaon office"
+    },
+    {
+     "ProjectId": 138,
+     "ProjectTitle": "Project 138",
+     "ProjectTechnologies": "AWS, PubSub, Dagger, Java",
+     "Technical_SkillsetFrontend": "ReactJS",
+     "Technical_SkillsetBackend": "Java",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "AWS",
+     "Other_InformationAvailability": "Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 139,
+     "ProjectTitle": "Project 139",
+     "ProjectTechnologies": "React, Jest, Jenkins",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Not Mentioned",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Available to join in one month after offer. Comfortable with working from Gurgaon office."
+    },
+    {
+     "ProjectId": 140,
+     "ProjectTitle": "Project 140",
+     "ProjectTechnologies": "React, Firebase",
+     "Technical_SkillsetFrontend": "React",
+     "Technical_SkillsetBackend": "Firebase",
+     "Technical_SkillsetDatabases": "Firebase",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Immediate, ready to work from Gurgaon"
+    },
+    {
+     "ProjectId": 141,
+     "ProjectTitle": "Project 141",
+     "ProjectTechnologies": "React, Next.js, Node.js, Express",
+     "Technical_SkillsetFrontend": "React, Next.js",
+     "Technical_SkillsetBackend": "Node.js, Express",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediately available and comfortable with relocating to Gurgaon"
+    },
+    {
+     "ProjectId": 142,
+     "ProjectTitle": "Project 142",
+     "ProjectTechnologies": "LSTM model, overfitting techniques",
+     "Technical_SkillsetFrontend": "Angular, React, Next JS",
+     "Technical_SkillsetBackend": "Rating is 6\/10",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediate if remote, January 2024 if office work"
+    },
+    {
+     "ProjectId": 143,
+     "ProjectTitle": "Project 143",
+     "ProjectTechnologies": "React JS, MSGS JavaScript, TypeScript, Django, Spring Boot",
+     "Technical_SkillsetFrontend": "React JS",
+     "Technical_SkillsetBackend": "Node JS, Django, Spring Boot",
+     "Other_InformationAvailability": "60 days notice period, comfortable with working in Gurgaon office"
+    },
+    {
+     "ProjectId": 144,
+     "ProjectTitle": "Project 144",
+     "ProjectTechnologies": "React, JavaScript, Open Source Weather API",
+     "Technical_SkillsetFrontend": "React, JavaScript, HTML, CSS",
+     "Technical_SkillsetBackend": "Node.js",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Available to join immediately within 1-4 days"
+    },
+    {
+     "ProjectId": 145,
+     "ProjectTitle": "Project 145",
+     "ProjectTechnologies": "React, Python, Django, Flask, REST APIs, Fast APIs, Docker",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetInfrastructre": "Docker",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 146,
+     "ProjectTitle": "Project 146",
+     "ProjectTechnologies": "React, JS, Angular, Python, Django, API integration, Docker, Agile methodology",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Python, Django",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Docker, Agile methodology",
+     "Other_InformationAvailability": "Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+     "ProjectId": 147,
+     "ProjectTitle": "Project 147",
+     "ProjectTechnologies": "Reactjs, Angular, Python, Django, Docker",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Docker",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 148,
+     "ProjectTitle": "Project 148",
+     "ProjectTechnologies": "Python, MySQL",
+     "Technical_SkillsetFrontend": "HTML, CSS, JavaScript, Reactjs, Bootstrap",
+     "Technical_SkillsetBackend": "Python, Java",
+     "Technical_SkillsetDatabases": "MySQL",
+     "Technical_SkillsetInfrastructre": "Azure, Docker, Linux, Git",
+     "Other_InformationAvailability": "From 21 September 2023 and ready to move to Gurgaon office"
+    },
+    {
+     "ProjectId": 149,
+     "ProjectTitle": "Project 149",
+     "ProjectTechnologies": "APIs",
+     "Technical_SkillsetFrontend": "React, Next.js",
+     "Technical_SkillsetBackend": "Not specified",
+     "Technical_SkillsetDatabases": "Not specified",
+     "Technical_SkillsetInfrastructre": "Not specified",
+     "Other_InformationAvailability": "One month notice period"
+    },
+    {
+     "ProjectId": 150,
+     "ProjectTitle": "Project 150",
+     "ProjectTechnologies": "React, Angular, Python Django, REST APIs, payment gateway",
+     "Technical_SkillsetFrontend": "React, Angular",
+     "Technical_SkillsetBackend": "Python Django",
+     "Technical_SkillsetDatabases": "Not mentioned",
+     "Technical_SkillsetInfrastructre": "Not mentioned",
+     "Other_InformationAvailability": "Immediate"
+    },
+    {
+     "ProjectId": 151,
+     "ProjectTitle": "Project 151",
+     "ProjectTechnologies": "Neural networks, ANN algorithm",
+     "Technical_SkillsetFrontend": "React, Next JS, Angular",
+     "Technical_SkillsetBackend": "Node JS, Ninjas, Django",
+     "Technical_SkillsetDatabases": "Not Mentioned",
+     "Technical_SkillsetInfrastructre": "Not Mentioned",
+     "Other_InformationAvailability": "Can join within one month of receiving the offer letter and is comfortable with working from the office in Gurgaon"
+    }
+   ]
